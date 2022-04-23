@@ -1,0 +1,4 @@
+#Mon Apr 18 12:49:16 ICT 2022
+base.0=C\:\\Users\\Fredy\\Documents\\VSCode\\Dart\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
